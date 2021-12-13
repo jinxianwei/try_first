@@ -1,0 +1,2 @@
+def nihao():
+    print("nhao")
